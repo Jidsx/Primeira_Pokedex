@@ -13,5 +13,4 @@ Este é um site para celular que funciona como uma pokedex, ele exibe as informa
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width = 50 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width = 50 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width = 50 />
 
 ## Tela
-<img src="https://user-images.githubusercontent.com/113401757/235272656-b90864ab-0b46-4a95-911c-d359e9fd79a6.jpg" width = 370 />
-
+<img src="https://user-images.githubusercontent.com/113401757/235277218-9f2363c2-d052-4017-9e3f-0df29d578951.jpg" width = 370 />
